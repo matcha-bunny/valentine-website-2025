@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Do you like me? 🫃🏻",                                    // First interaction
             yesBtn: "Yes :3",                                             // Text for "Yes" button
             noBtn: "No 💔",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! 👩🏻‍❤️‍👩🏻"           // Secret hover message
+            secretAnswer: "nuh uh, I love you!! 👩🏻‍❤️‍👩🏻"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -51,13 +51,13 @@ const CONFIG = {
     celebration: {
         title: "YAY am the luckiest in the world! 🎉💝💖🖤💓",
         message: "come get your gift;> hug and a big kiss!",
-        emojis: "🎁🎸🤗💴💋🍣🖤🥤🩷🐮"  // These will bounce around
+        emojis: "🎁🎸🤗💴💋🍣🖤🥤🩷🐮💝🍟🩷🍫🖤"  // These will bounce around
     },
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#7b241c",      // Gradient start (try pastel colors for a soft look)
+        backgroundStart: "#000000",      // Gradient start (try pastel colors for a soft look)
         backgroundEnd: "#ff86b9",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
         buttonHover: "#000000",          // Button hover color (slightly lighter than buttonBackground)
